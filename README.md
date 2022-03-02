@@ -1,8 +1,6 @@
-### Well, hello there ✌🏻
+I'm a Data Scientist with 8 years experience. I am currently leading the DS work at a small consulting firm in Mexico.
 
-I'm a Data Scientist with 8+ years experience, currently leading the DS work at a small consulting firm in Mexico.
-
-I did my honours MSc thesis on Reinforcement Learning (repo pinned right below) :mortar_board:
+I did my MSc thesis (magna cum laude) on Reinforcement Learning (repo pinned right below). You can read it in Spanish ([here.](https://github.com/m-durand/MSc_Thesis/blob/master/final_docs/TesisM.pdf)).
 
 You can 📫 me at mfadurand@gmail.com
 
