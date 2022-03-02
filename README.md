@@ -1,10 +1,10 @@
 I'm a Data Scientist with 8 years experience. I am currently leading the DS work at a small consulting firm in Mexico.
 
-I did my MSc thesis (magna cum laude) on Reinforcement Learning (repo pinned right below). You can read it in Spanish ([here.](https://github.com/m-durand/MSc_Thesis/blob/master/final_docs/TesisM.pdf)).
+I did my MSc thesis (magna cum laude) on Reinforcement Learning (repo pinned right below). You can read it in Spanish [here.](https://github.com/m-durand/MSc_Thesis/blob/master/final_docs/TesisM.pdf).
 
 You can 📫 me at mfadurand@gmail.com
 
-I love playing chess ([send me a correspondence challenge here!](https://lichess.org/?user=fleoren#friend)), salsa dancing, gardening and learning languages.
+I love playing chess, salsa dancing, gardening and learning languages.
 
 <!--
 **m-durand/m-durand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
