@@ -2,11 +2,11 @@
 
 I'm a Data Scientist with 8+ years experience, currently leading the DS work at a small consulting firm in Mexico.
 
-I did my honours MSc thesis on Reinforcement Learning :mortar_board:
+I did my honours MSc thesis on Reinforcement Learning (repo pinned right below) :mortar_board:
 
 You can 📫 me at mfadurand@gmail.com
 
-I love playing chess ([send me a correspondence challenge here!](https://lichess.org/?user=fleoren#friend)), salsa dancing :dancer:, gardening 🌱 and learning languages 💬
+I love playing chess ([send me a correspondence challenge here!](https://lichess.org/?user=fleoren#friend)), salsa dancing, gardening and learning languages.
 
 <!--
 **m-durand/m-durand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
