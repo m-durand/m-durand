@@ -1,8 +1,8 @@
-I'm a Data Scientist with 8 years experience. I am currently leading the DS work at a small consulting firm in Mexico.
+I'm a Data Scientist with 8 years experience. I currently lead the Data Science Center at the Government School of [Tec de Monterrey](https://en.wikipedia.org/wiki/Monterrey_Institute_of_Technology_and_Higher_Education). I am also a research professor there, where I teach Data Science and Artificial Intelligence courses to graduate students.
 
 I did my MSc thesis (magna cum laude) on Reinforcement Learning (repo pinned right below). You can read the extended abstract [here](https://github.com/m-durand/MSc_Thesis/blob/master/final_docs/TesisM_ExtendedAbstract.pdf).
 
-You can 📫 me at mfadurand@gmail.com
+You can 📫 me at fdurand@tec.mx
 
 I love playing chess, salsa dancing, gardening and learning languages.
 
